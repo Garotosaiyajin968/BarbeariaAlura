@@ -3,12 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Barbearia Alura</title>
- 
-</head>
-  p{
-      text-align
-  }
+ <style>
 
+        p{
+        
+            text-align
+
+        }
+
+</style>
+</head>
 <body>
 
 
