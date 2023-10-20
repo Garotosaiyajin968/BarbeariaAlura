@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Barbearia Alura</title>
@@ -7,10 +6,9 @@
 
         p{
         
-            text-align
+            text-align: center
 
         }
-
 </style>
 </head>
 <body>
