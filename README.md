@@ -19,8 +19,7 @@
     </style> 
    
     <body>
-     <img= src:!"[banner](https://github.com/Garotosaiyajin968/BarbeariaAlura/assets/144037806/b4757158-f725-4450-8fce-0dea94a7f7f5)">
-
+    <img src="banner.jpg"></img>
         
         <h1 style="text-align: center; color: blue;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
 
