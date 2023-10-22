@@ -20,6 +20,7 @@
    
     <body>
 
+        <img id="Banner" src="Banner.jpg">
         
         <h1 style="text-align: center; color: blue;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
 
