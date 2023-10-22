@@ -15,7 +15,10 @@
      em strong{
      color: red;
      }
-     
+
+     .itens{
+         font-style: italic
+     }   
     </style> 
    
     <body>
@@ -33,9 +36,9 @@
         <h2 style=" color: Black;font-weight: bolder;">Beneficios</h2>
         
         <ul>
-            <li>*Atendimento aos clientes</li>
-            <li>*Espaço diferenciado</li>
-            <li>*Localização</li>
-            <li>*proficionais Qualificados</li>
+            <li class="itens">Atendimento aos clientes</li>
+            <li class="itens">Espaço diferenciado</li>
+            <li class="itens">Localização</li>
+            <li class="itens">proficionais Qualificados</li>
         </ul>
     </body>
