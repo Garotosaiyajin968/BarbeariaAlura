@@ -22,7 +22,9 @@
     </style> 
    
     <body>
-
+        
+        ![Banner](https://github.com/Garotosaiyajin968/BarbeariaAlura/assets/144037806/924b1b0d-5de2-4d46-b83e-93055b073fd7)
+        
         <h1 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
 
         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
