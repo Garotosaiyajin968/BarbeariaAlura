@@ -41,6 +41,6 @@
             <li class="itens">Atendimento aos clientes</li>
             <li class="itens">Espaço diferenciado</li>
             <li class="itens">Localização</li>
-            <li class="itens">Profissionais Qualificados</li>
+            <li class="itens">Profissionais qualificados</li>
         </ul>
     </body>
