@@ -20,14 +20,16 @@
          font-style: italic
      }
     body{
-        background: #C0C0C0;
+        background: #DCDCDC;
     }
     
     </style> 
    
     <body>
-        
-            <h1 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
+
+        <img src="banner.jpg">
+            
+        <h1 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
 
         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
         Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
