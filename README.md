@@ -19,8 +19,10 @@
      .itens{
          font-style: italic
      }
-
-     background-color: #C0C0C0,
+    body{
+        background: #C0C0C0;
+    }
+    
     </style> 
    
     <body>
