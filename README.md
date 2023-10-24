@@ -44,7 +44,7 @@
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 
         <div class="benefícios">
-            <h2 style=text-align: center>Beneficios</h2>
+            <h2 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Beneficios</h2>
         
             <ul>
                 <li class="itens">Atendimento aos clientes</li>
