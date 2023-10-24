@@ -1,6 +1,6 @@
 
-<html lang="pt-br">
-    <head>
+    <html lang="pt-br">
+      <head>
         <meta charset="UTF-8">
         <title>Barbearia Alura</title>
        
@@ -21,6 +21,10 @@
      }
     body{
         background: #DCDCDC;
+    }
+
+    .benefícios{
+        background: #FFFFFF;
     }
     
     </style> 
@@ -49,5 +53,5 @@
                 <li class="itens">Profissionais qualificados</li>
             </ul>
        </div>
-    </body>
-</html>
+      </body>
+    </html>
