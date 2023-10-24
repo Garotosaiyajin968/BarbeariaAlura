@@ -23,7 +23,7 @@
    
     <body>
         
-![Banner]<img src="https://github.com/Garotosaiyajin968/BarbeariaAlura/assets/144037806/924b1b0d-5de2-4d46-b83e-93055b073fd7.png"/>
+![Banner]<img src="(https://github.com/Garotosaiyajin968/BarbeariaAlura/assets/144037806/924b1b0d-5de2-4d46-b83e-93055b073fd7).PNG"/>
         
         <h1 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
 
