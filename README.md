@@ -33,7 +33,7 @@
 
         <img src="banner.jpg">
             
-        <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+        <h1 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Sobre a Barbearia Alura</h1>
 
         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
         Fundada em 2018, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
@@ -44,7 +44,7 @@
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 
         <div class="benefícios">
-            <h2 style="text-align: center; color: Black;font-weight: bolder;: #836FFF">Beneficios</h2>
+            <h2 style="text-align: center">Beneficios</h2>
         
             <ul>
                 <li class="itens">Atendimento aos clientes</li>
