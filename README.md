@@ -34,8 +34,8 @@
         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 
-        <div>
-            <h2 style=" color: Black;font-weight: bolder;">Beneficios</h2>
+        <div class="beneficios">
+            <h2>Beneficios</h2>
         
             <ul>
                 <li class="itens">Atendimento aos clientes</li>
