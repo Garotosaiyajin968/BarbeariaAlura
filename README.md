@@ -21,7 +21,7 @@
      }
 
       .principal{
-         background: #DCDCDC;
+         background: #CCCCCC;
       }
      
     body{
