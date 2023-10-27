@@ -33,8 +33,8 @@
     }
 
     #banner{
-        width: 100%
-        height:120px
+        width: 100%;
+        height: 120px;
     }
     
     </style> 
