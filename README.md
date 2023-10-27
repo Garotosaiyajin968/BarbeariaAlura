@@ -38,9 +38,10 @@
         width: 100%;
     }
 
-    .principal{
-          
+    .imagem2{
+          width: 50%;
     }
+
     
     </style> 
    
@@ -70,7 +71,7 @@
                 <li class="itens">Profissionais qualificados</li>
             </ul>
 
-            <img src="beneficios.jpg"
+            <img src="beneficios.jpg" class="imagem2">
             
        </div>
       </body>
