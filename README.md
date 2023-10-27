@@ -32,7 +32,7 @@
         background: #FFFFFF;
     }
 
-    .banner{
+    #banner{
         width: 100%
         height:120px
     }
