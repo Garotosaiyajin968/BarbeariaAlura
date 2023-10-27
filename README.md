@@ -14,7 +14,7 @@
       
       h1{
         text-align: center
-        height: 100;
+        
       }  
 
      em strong{
@@ -35,6 +35,10 @@
 
     #banner{
         width: 100%;
+    }
+
+    .principal{
+          height: 100;
     }
     
     </style> 
@@ -69,4 +73,4 @@
             
        </div>
       </body>
-    <
+    
