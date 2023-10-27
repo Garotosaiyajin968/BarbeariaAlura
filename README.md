@@ -39,7 +39,7 @@
     }
 
     #imagembeneficios{
-            width: 700%;
+            width: 40%;
     }
 
     
