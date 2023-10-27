@@ -39,7 +39,7 @@
     }
 
     .imagem2{
-          width: 50%;
+         width: 700;
     }
 
     
