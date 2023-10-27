@@ -38,7 +38,7 @@
     }
 
     .principal{
-          height: 100;
+          
     }
     
     </style> 
