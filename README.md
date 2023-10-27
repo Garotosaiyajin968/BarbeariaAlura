@@ -11,6 +11,10 @@
      p{
         text-align: center   
         }
+      
+      h1{
+        text-align: center      
+      }  
 
      em strong{
      color: Purple;
@@ -44,7 +48,7 @@
         <img id="banner" src="banner.jpg">
 
         <div class="principal">    
-              <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+              <h1>Sobre a Barbearia Alura</h1>
 
               <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
               Fundada em 2018, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
