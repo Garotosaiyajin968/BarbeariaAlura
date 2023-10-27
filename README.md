@@ -42,8 +42,15 @@
             width: 40%;
     }
 
+   ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+      }
+
     
-    </style> 
+      </style> 
    
     <body>
 
