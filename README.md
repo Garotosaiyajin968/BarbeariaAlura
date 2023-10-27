@@ -14,7 +14,7 @@
       
       h1{
         text-align: center
-        height: 100%;
+        height: 100;
       }  
 
      em strong{
@@ -64,6 +64,9 @@
                 <li class="itens">Localização</li>
                 <li class="itens">Profissionais qualificados</li>
             </ul>
+
+            <img src="beneficios.jpg"
+            
        </div>
       </body>
     <
