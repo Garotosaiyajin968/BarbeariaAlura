@@ -24,8 +24,6 @@
 
      .itens{
          font-style: italic
-          height-size= 25px
-
      }
      
     body{
