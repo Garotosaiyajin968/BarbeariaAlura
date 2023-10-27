@@ -41,7 +41,7 @@
    
     <body>
 
-        <img id="banner" src="banner.jpg">
+        <img src="banner.jpg" width="100, height:120px">
 
         <div class="principal">    
               <h1>Sobre a Barbearia Alura</h1>
