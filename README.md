@@ -23,10 +23,6 @@
      .itens{
          font-style: italic
      }
-
-      .principal{
-         background: #CCCCCC;
-      }
      
     body{
        
