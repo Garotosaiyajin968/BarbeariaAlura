@@ -14,7 +14,7 @@
       
       h1{
         text-align: center
-        height: 100;
+        height: 100%;
       }  
 
      em strong{
