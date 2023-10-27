@@ -14,6 +14,7 @@
       
       h1{
         text-align: center
+        height: 100;
         
       }  
 
