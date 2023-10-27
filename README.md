@@ -13,7 +13,8 @@
         }
       
       h1{
-        text-align: center      
+        text-align: center
+        height: 100;
       }  
 
      em strong{
