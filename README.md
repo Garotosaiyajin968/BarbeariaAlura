@@ -12,7 +12,7 @@
 
      p{
         text-align: center
-	color: red;
+	
         }
       
       h1{
