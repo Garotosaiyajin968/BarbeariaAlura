@@ -11,7 +11,8 @@
     <style>
 
      p{
-        text-align: center   
+        text-align: center
+	color: red;
         }
       
       h1{
