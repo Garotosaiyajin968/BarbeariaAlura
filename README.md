@@ -42,8 +42,9 @@
     }
 
     #imagembeneficios{
-            width: 70%;
-    }
+       width: 70%;
+ }
+ 
 
    ul {
     display: inline-block;
