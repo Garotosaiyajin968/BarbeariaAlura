@@ -61,7 +61,9 @@
       </style> 
    
     <body>
-
+      <header>
+        barbearia alura
+      </header
         <img id="banner" src="banner.jpg">
 
         <div class="principal">    
