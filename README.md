@@ -43,9 +43,13 @@
 
     #imagembeneficios{
        width: 50%;
+   }
+
+   #principal{
+  background: #CCCCCC;
+  padding: 30px;
  }
  
-
    ul {
     display: inline-block;
     vertical-align: top;
