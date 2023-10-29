@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -43,14 +43,14 @@
 
     #imagembeneficios{
        width: 50%;
-   }
+    }
 
-   #principal{
-  background: #CCCCCC;
-  padding: 30px;
- }
+    #principal{
+    background: #CCCCCC;
+    padding: 30px;
+    }
  
-   ul {
+    ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
