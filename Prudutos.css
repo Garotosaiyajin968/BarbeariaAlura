@@ -5,9 +5,9 @@ nav li {
     margin: 0 0 0 15px;
 }
 
-nav a {
+nav ul a {
     text-transform: uppercase;
-    color: #000000;
+    color: black;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
