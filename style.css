@@ -6,7 +6,7 @@ p {
     text-align: center;
 }
 
-strong em{
+em strong{
   color: #4B0082;
   font-size: 20px;
 }
