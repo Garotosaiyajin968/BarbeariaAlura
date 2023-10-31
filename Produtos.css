@@ -29,5 +29,5 @@ nav a {
 }
 
 Lista-produtos li{
-    display: inline;
+    display: inline-block;
 }
