@@ -20,3 +20,8 @@ h1{
 #imagembeneficios{
   width: 50%;
 }
+
+em strong{
+  color: purple;
+  width: 20px;
+}
