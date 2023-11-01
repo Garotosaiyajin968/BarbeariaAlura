@@ -3,7 +3,7 @@ p {
 }
 
 body{
-  background: #CCCCCC;
+  
 }
 
 h1{
@@ -29,4 +29,8 @@ strong{
 
 #benefícios{
     background: #FFFFFF;
+}
+
+#principal{
+     background: #CCCCCC;
 }
