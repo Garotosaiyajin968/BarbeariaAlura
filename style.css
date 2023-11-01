@@ -16,7 +16,7 @@ body {
     padding: 20px;
 }
 
-h2 {
+h1, h2 {
     text-align: center;
 }
 
@@ -29,4 +29,8 @@ ul {
 
 .imagembeneficios {
     width: 50%;
+}
+
+p {
+  text-align: center;  
 }
