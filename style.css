@@ -34,3 +34,10 @@ strong{
 #principal{
      background: #CCCCCC;
 }
+
+ul{
+    display: inline-block;
+    Vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
