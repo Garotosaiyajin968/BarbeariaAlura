@@ -50,6 +50,11 @@ nav a {
 
 .produtos li:houver {
     border-color: blue;
+    font-size: 40px;
+}
+
+.produtos li:active {
+    font-size: 40px;
 }
 
 .produtos h2 {
