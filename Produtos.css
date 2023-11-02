@@ -48,8 +48,8 @@ nav a {
     border-radius: 10px 20px 30px 40px;
 }
 
-.produtos li:hover h2 {
-    color: #C78C19;
+.produtos li:hover {
+    border-color: #C78C19;
 }
 
 .produto-preco {
