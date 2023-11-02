@@ -48,6 +48,10 @@ nav a {
     border-radius: 10px 20px 30px 40px;
 }
 
+.produtos li:hover {
+    color: #C78C19;
+}
+
 .produto-preco {
     font-size: 22px;
     font-weight: bold;
