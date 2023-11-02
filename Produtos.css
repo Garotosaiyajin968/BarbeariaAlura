@@ -22,15 +22,16 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
 nav a:hover {
-   color: #C78C19; 
+    color: #C78C19;
+    text-decoration: underline;
 }
+
 
 .produtos {
     width: 940px;
@@ -65,6 +66,11 @@ nav a:hover {
     font-size: 30px;
     font-weight: bold;
 }
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
 
 .produto-descricao {
     font-size: 18px;
