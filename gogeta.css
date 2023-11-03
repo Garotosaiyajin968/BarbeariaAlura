@@ -30,6 +30,7 @@ nav li {
 nav a {
     text-transform: uppercase;
     font-weight: bold;
+    display: inline;
     color: white;
     font-size: 22px;
     text-decoration: none;
