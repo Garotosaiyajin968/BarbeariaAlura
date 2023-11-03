@@ -22,8 +22,8 @@ nav {
     right: 0;
 }
 
-nav li {
-    display: inline;
+nav p {
+    display: inline-block;
     margin: 0 0 0 15px;
 }
 
