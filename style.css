@@ -16,7 +16,7 @@ nav {
 }
 
 nav li {
-    display: inline;
+    display: inline-block;
     margin: 0 0 0 15px;
 }
 
@@ -26,51 +26,6 @@ nav a {
     color: white;
     font-size: 22px;
     text-decoration: none;
-}
-
-.produtos {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
-.produtos li {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-    vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-    border-color: black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 10px 20px 30px 40px;
-}
-
-.produtos li:hover {
-    border-color: #C78C19;
-}
-
-.produtos li:active {
-    border-color: #088C19;	
-}
-
-
-.produto-preco {
-    font-size: 22px;
-    font-weight: bold;
-    margin-top: 10px;
-}
-
-footer {
-    text-align: center;
-    background: url("bg.jpg");
-    padding: 40px 0;
-}
-
-footer p {
-    color: white;
 }
 
 
