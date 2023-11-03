@@ -8,6 +8,33 @@ body {
     background: white;
 }
 
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+}
+
 .principal{
     background: url("bg.jpg");
     padding: 30px;
