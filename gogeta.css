@@ -1,1 +1,64 @@
+header {
+    background: url("bg.jpg");
+    padding: 20px 0;
+}
+
+
+body {
+    background: white;
+}
+
+.principal{
+    background: url("bg.jpg");
+    padding: 30px;
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+
+#missao {
+    font-size: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+em strong {
+    color: purple;
+    font-size: 22px;
+}
+
+.principal p {
+    color: white;
+}
+
+strong {
+    color: white;
+     font-size: 18px;
+}
+
 
