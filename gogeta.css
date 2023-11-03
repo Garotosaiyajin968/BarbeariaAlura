@@ -22,15 +22,17 @@ nav {
     right: 0;
 }
 
-#Menu-B {
-    list-style: none;
-    padding: 0;
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
 }
 
-#Menu-B li {
+nav a {
+    text-transform: uppercase;
+    font-weight: bold;
     color: white;
-    display: inline;
     font-size: 22px;
+    text-decoration: none;
 }
 
 .principal{
