@@ -22,13 +22,12 @@ nav {
     right: 0;
 }
 
-nav li {
-    display: inline-block;
-    text-align: horizontal;
-    margin: 0 0 0 15px;
+#Menu-B {
+    list-style: none;
+    padding: 0;
 }
 
-nav a {
+#Menu-B li {
     text-transform: uppercase;
     text-align: horizontal;
     font-weight: bold;
