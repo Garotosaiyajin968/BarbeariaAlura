@@ -30,6 +30,22 @@ nav a {
     text-decoration: none;
 }
 
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+footer p {
+    color: white;
+}
+
+.Copyright {
+    font-size: 13px;
+    mangin: 20px;
+    
+}
+
 
 main {
   width: 940px;
