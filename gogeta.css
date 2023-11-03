@@ -28,12 +28,9 @@ nav {
 }
 
 #Menu-B li {
-    text-transform: uppercase;
-    text-align: horizontal;
-    font-weight: bold;
     color: white;
+    display: inline;
     font-size: 22px;
-    text-decoration: none;
 }
 
 .principal{
