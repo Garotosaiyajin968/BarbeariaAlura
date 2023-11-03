@@ -79,6 +79,16 @@ footer p {
     
 }
 
+header {
+    background: url("bg.jpg");
+    padding: 20px 0;
+}
+
+
+body {
+    background: white;
+}
+
 .principal{
     background: url("bg.jpg");
     padding: 30px;
