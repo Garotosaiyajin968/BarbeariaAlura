@@ -28,6 +28,12 @@ nav li {
     padding: 0;
 }
 
+nav ul {
+    display: inline;
+    margin: 0 0 0 15px;
+    padding: 0;
+}
+
 nav a {
     text-transform: uppercase;
     font-weight: bold;
