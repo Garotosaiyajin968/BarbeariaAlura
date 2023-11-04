@@ -72,7 +72,7 @@ form label, form p {
     margin: 0 0 10px; 
 }
 
-form input, form textarea {
+.input-padao {
     dispaly: block;
     margin: 0 0 20px;
     padding: 10px 25px;
