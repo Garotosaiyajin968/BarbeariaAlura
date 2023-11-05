@@ -79,12 +79,9 @@ form label, form p {
     width: 50%;
 }
 
-p {
-    color: red;
-}
 
 form p {
-    color: blue;
+    color: orange;
 }
 
 .teste {
